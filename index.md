@@ -1,5 +1,4 @@
 ---
-title: "JC Exp Med"
+title: Welcome to my blog
 ---
-This is the website of the student journal club on experimental medicine at Univeristy Hospital Frankfurt (Germany).
 
