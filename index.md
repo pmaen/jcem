@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: "Student Journal Club on Experimental Medicine"
 ---
-Hello World. Let's see how this looks
+This is the website of the student journal club on experimental medicine at Univeristy Hospital Frankfurt (Germany).
 
