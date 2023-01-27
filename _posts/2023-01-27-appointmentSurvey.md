@@ -1,6 +1,6 @@
 ---
 title: "Appointment Survey"
-date: 2023-01-21
+date: 2023-01-27
 ---
 <font size = "5">Hallo zusammen,</font><br>
 es gibt eine Umfrage zur Findung eines Termins für den Journalclub. Bitte tragt Termine ein, an denen ihr mit hoher Wahrscheinlichkeit regelmäßig teilnehmen könnt.
