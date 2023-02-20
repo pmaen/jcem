@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "afa9e3857c17c88f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-02-20-findingPapers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241.5
   },
   "right": {
     "id": "1c723334eb26bf92",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-02-06-scheduling.md",
+                "file": "2023-02-20-findingPapers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-02-06-scheduling.md",
+                "file": "2023-02-20-findingPapers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-02-06-scheduling.md"
+                "file": "2023-02-20-findingPapers.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d52ba3e2a5e0bb8",
+  "active": "afa9e3857c17c88f",
   "lastOpenFiles": [
-    "2023-02-01-firstMeeting.md",
     "2023-02-06-scheduling.md",
+    "2023-02-20-findingPapers.md",
+    "2023-02-01-firstMeeting.md",
     "2023-01-27-appointmentSurvey.md",
     "2023-01-21-initial.md"
   ]
