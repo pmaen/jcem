@@ -1,17 +1,17 @@
 title: "Student Journal Club on Experimental Medicine"
-description: >
-  Legal:
-  This Journal Club is in no way affiliated with the Journal of Experimental Medicine or the Rockefeller University Press. Contributions are in no way limited to this journal or any other journal of the publisher.
-  Logo: © dreamrice (Vecteezy) & Paul Mennig
+description: This is the website of the student journal club on experimental medicine at University Hospital Frankfurt (Germany).
 
-author: >
-  Author: Paul Mennig.
-  This website is a private project that is not connected with any business activity and does not publish any journalistic-editorial content. Therefore, the imprint obligation according to § 5 TMG and § 18 MStV is not applicable.
-  The contributor of the website can be reached at pmu@mail.de.
+author: Paul Mennig
+email: pmu@mail.de
 
 theme: minima
 
 minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/pmaen" }
-    - { platform: linkedin,  user_url: "https://www.linkedin.com/in/paul-mennig" }
+social_links:
+  - { platform: github,  user_url: "https://github.com/pmaen" }
+  - { platform: linkedin,  user_url: "https://www.linkedin.com/in/paul-mennig" }
+footer_links:
+  - title: Impressum
+    url: /impressum/
+
+
