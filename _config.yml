@@ -1,15 +1,14 @@
 title: "JC Exp Med"
-description: This is the website of the student journal club on experimental medicine at University Hospital Frankfurt (Germany).
+description: This is the website of the Student Journal Club on Experimental Medicine at University Hospital Frankfurt (Germany).
 
 author: Paul Mennig
 email: pmu@mail.de
+github: "https://github.com/pmaen"
+linkedin: "https://www.linkedin.com/in/paul-mennig"
 
 theme: minima
 
 minima:
-social_links:
-  - { platform: github,  user_url: "https://github.com/pmaen" }
-  - { platform: linkedin,  user_url: "https://www.linkedin.com/in/paul-mennig" }
 footer_links:
   - title: Impressum
     url: /impressum/
