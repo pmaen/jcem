@@ -2,6 +2,7 @@
 layout: page
 title: Impressum/Imprint
 permalink: /impressum/
+menu_order=2
 ---
 
 This website is a private project that is not connected with any business activity and does not publish any journalistic-editorial content. Therefore, the imprint obligation according to § 5 TMG and § 18 MStV is not applicable.
