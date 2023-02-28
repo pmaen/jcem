@@ -12,5 +12,6 @@ minima:
 footer_links:
   - title: Impressum
     url: /impressum/
-
+  - title: Datenschutz
+    url: /datenschutz/
 
