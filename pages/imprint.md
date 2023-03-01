@@ -4,7 +4,7 @@ title: Impressum/Imprint
 permalink: /impressum/
 ---
 
-# Deutsch
+<h1>Deutsch</h1>
 
 Der studentische Journalclub für experimentelle Medizin ist ein Projekt der GLM – Gemeinsame Liste Medizin.<br>
 Die GLM – Gemeinsame Liste Medizin ist die Fachschaft des Fachbereichs 16 der Johann Wolfgang Goethe-Universität Frankfurt.
@@ -24,7 +24,7 @@ Kontakt zum Autor: [pmu@mail.de](mailto:pmu@mail.de)
 Dieser Journal Club ist in keiner Weise mit dem Journal of Experimental Medicine oder der Rockefeller University Press verbunden. Die Beiträge sind in keiner Weise auf diese Zeitschrift oder eine andere Zeitschrift des Herausgebers beschränkt.<br>
 Logo-Design: © [Free Medical Stuff Icon Vector Free Vector by dreamerice on Vecteezy](https://www.vecteezy.com/vector-art/114732-free-medical-stuff-icon-vector) & Paul Mennig
 
-# English
+<h1>English</h1>
 
 The Student Journal Club on Experimental Medicine is a GLM - Gemeinsame Liste Medizin project.<br>
 The GLM - Gemeinsame Liste Medizin is the student council of department 16 of Johann Wolfgang Goethe University Frankfurt. 
